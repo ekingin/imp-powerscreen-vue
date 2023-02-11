@@ -1,0 +1,8 @@
+body {
+  position: relative;
+  margin: 0;
+  padding: 0;
+
+  transform-origin: left top;
+  box-sizing: border-box;
+}
